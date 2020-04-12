@@ -24,7 +24,7 @@ public class Usercontroller {
     /**
      * http://localhost/user/save?name=zhangsan
      *
-     * @param name 
+     * @param name
      * @Date 2020/4/12 12:14
      * @return java.lang.String
      * @Author ZhanG_b1nG
